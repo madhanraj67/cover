@@ -58,6 +58,7 @@ Publish the website in the LocalHost.
                 width: 130px;
                 color:black (221, 39, 39);
             }
+
             .h1 {
                 font-size: larger;
                 font-family: Arial, Helvetica, sans-serif;
@@ -66,6 +67,7 @@ Publish the website in the LocalHost.
                 top: 30px;
                 color:black (221, 39, 39);
             }
+
             .para {
                 font-size: medium;
                 font-family: Arial, Helvetica, sans-serif;
@@ -73,6 +75,7 @@ Publish the website in the LocalHost.
                 top: 40px; 
                 color:black (221, 39, 39); 
             }
+
             .edition {
                 font-size: large;
                 font-family: Arial, Helvetica, sans-serif;
@@ -80,6 +83,7 @@ Publish the website in the LocalHost.
                 top: 90px;
                 position: relative;
             }
+
             .pic {
                 position: relative;
                 top: 150px;
@@ -89,12 +93,14 @@ Publish the website in the LocalHost.
                 background-size: cover;
                 color:black (221, 39, 39);
             }
+
             .hr2 {
                 position: relative;
                 width: 400px;
                 top: 200px;
                 color:black (221, 39, 39);
             }
+
             .name {
                 font-size: medium;
                 font-family: Arial, Helvetica, sans-serif;
